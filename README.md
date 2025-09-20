@@ -1,5 +1,5 @@
 # Bayesian Inference & Ridge Regression (RBF / Polynomial)
-
+ 
 ## Introduction
 - Deux démos complémentaires :
   1) Régression ridge sur features RBF et polynomiales.
