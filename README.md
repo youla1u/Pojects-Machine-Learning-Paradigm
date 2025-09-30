@@ -6,7 +6,7 @@
   2) Inférence bayésienne pour moyenne et variance d’une loi normale.
 
 ## Partie 1 — Régression Ridge
-- Données : X simulé (uniforme), y = densité gaussienne multivariée.
+- Données : X simulé (uniforme), y = densité gaussienne multivariée. 
 - Features RBF :
   - σ² via “median trick”.
   - Centroïdes échantillonnés depuis X.
